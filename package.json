@@ -1,0 +1,29 @@
+{
+  "name": "roblot",
+  "version": "1.0.0",
+  "description": "ro-blot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amunozvhs44/ro-blot.git"
+  },
+  "author": "Ana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amunozvhs44/ro-blot/issues"
+  },
+  "homepage": "https://github.com/amunozvhs44/ro-blot#readme",
+  "keywords": [
+    "\"Build",
+    "a",
+    "bot",
+    "in",
+    "Node.js",
+    "on",
+    "Microsoft",
+    "Framework.\""
+  ]
+}
